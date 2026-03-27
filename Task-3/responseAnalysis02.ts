@@ -14,7 +14,6 @@ process.stdin.on('data', function(inputStdin: string): void {
 process.stdin.on('end', function(): void {
     inputLines = inputString.split('\n');
     inputString = '';
-
     main();
 });
 
@@ -22,18 +21,23 @@ function readLine(): string {
     return inputLines[currentLine++];
 }
 
-
-
 /*
  * Complete the 'countResponseTimeRegressions' function below.
- *
- * The function is expected to return an INTEGER.
- * The function accepts INTEGER_ARRAY responseTimes as parameter.
  */
 
 function countResponseTimeRegressions(responseTimes: number[]): number {
-    // Write your code here
+    let count = 0;
 
+    // loop start from second element
+    for (let i = 1; i < responseTimes.length; i++) {
+
+        // check if current value is greater than previous
+        if (responseTimes[i] > responseTimes[i - 1]) {
+            count++;
+        }
+    }
+
+    return count;
 }
 
 function main() {
@@ -43,7 +47,6 @@ function main() {
 
     for (let i: number = 0; i < responseTimesCount; i++) {
         const responseTimesItem: number = parseInt(readLine().trim(), 10);
-
         responseTimes.push(responseTimesItem);
     }
 
