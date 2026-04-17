@@ -1,10 +1,12 @@
 #  Software Engineering Coding Challenges
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Coding+Challenges;Problem+Solving+Practice;Full+Stack+Developer+Learning+Journey;Continuous+Coding+Improvement" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Coding+Challenges;Problem+Solving+Practice;Full+Stack+Developer+Journey;HackerRank+Certified+Developer;Continuous+Learning+%26+Growth" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Repository Stats
 
@@ -18,43 +20,69 @@
 
 #  About This Repository
 
-This repository contains a collection of **software engineering coding challenges, practice exercises, and problem-solving tasks**.
+This repository is a collection of **software engineering coding challenges, problem-solving exercises, and real-world practice tasks**.
 
-The purpose of this project is to document my **coding journey as a Full Stack Developer**, improve problem-solving skills and maintain structured solutions for different programming challenges.
+It reflects my journey as a **Full Stack Developer**, where I continuously improve my **coding, logic building, and development skills**.
 
-Most of these challenges are solved while practicing on platforms like **HackerRank** and other coding practice environments.
+Most of the problems are solved while practicing on platforms like **HackerRank** and similar coding environments.
 
 ---
 
 #  Goals of This Repository
 
 ✔ Improve **problem solving skills**
+
 ✔ Practice **software engineering concepts**
+
+✔ Build strong **logical thinking**
+
 ✔ Maintain organized **coding solutions**
-✔ Build a **professional GitHub portfolio**
-✔ Strengthen **full stack development knowledge**
+
+✔ Showcase a **professional GitHub portfolio**
+
+✔ Strengthen **full stack development expertise**
 
 ---
 
-#  Skills Practiced
+#  Technologies & Languages Used
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-#  Coding Platforms
+#  HackerRank Certification
 
-Practice challenges are taken from platforms like:
+<p align="center">
+<img src="./certificate.png" width="600"/>
+</p>
+
+🔗 **Verify Certificate:**
+https://www.hackerrank.com/certificates/1961df5ba8bb
+
+🔗 **Live Preview (Embed):**
+https://www.hackerrank.com/certificates/iframe/1961df5ba8bb
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
+# 🧩 Coding Platforms
+
+🔗 **Profile Link:**
+https://www.hackerrank.com/profile/YasirAwan4831
+
+Practice challenges are taken from:
 
 * HackerRank
-* Coding challenge platforms
-* Personal problem solving exercises
+* Personal coding practice
+* Problem solving exercises
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 👨‍💻 Author
 
@@ -62,7 +90,7 @@ Practice challenges are taken from platforms like:
 
 **Full Stack Web Developer**
 
-Passionate about building **modern web applications, solving programming challenges and improving software engineering skills**.
+Passionate about building **modern web applications, solving coding challenges, and continuously improving software engineering skills**.
 
 🌐 Portfolio
 https://yasirawaninfo.vercel.app/
@@ -71,22 +99,26 @@ https://yasirawaninfo.vercel.app/
 
 # ⭐ Support
 
-If you find this repository helpful or interesting:
+If you find this repository useful:
 
-⭐ **Give it a star** on GitHub
-🍴 **Fork the repository**
-📢 Share it with other developers
+⭐ Star this repository
+🍴 Fork and explore
+📢 Share with other developers
 
 ---
 
 #  Continuous Learning
 
-> “The best way to become a great developer is to **code every single day**.”
+> “Consistency beats talent. Code every day and improve step by step.”
 
-This repository will continue to grow as more **coding challenges and solutions** are added.
+This repository will keep growing with more **coding challenges, solutions, and improvements**.
 
 ---
 
 <p align="center">
-🔥 Happy Coding | Keep Learning | Keep Building
+🔥 Keep Coding | Keep Growing | Never Stop Learning
 </p>
+
+<!-- WAVE DIVIDER --><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
