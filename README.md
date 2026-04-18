@@ -55,6 +55,13 @@ Most of the problems are solved while practicing on platforms like **HackerRank*
 
 ---
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cs,postgres,nodejs,react,git,github,vscode" />
+</p>
+
+-----
+
 #  HackerRank Certification
 
 <p align="center">
@@ -76,11 +83,24 @@ https://www.hackerrank.com/certificates/iframe/1961df5ba8bb
 🔗 **Profile Link:**
 https://www.hackerrank.com/profile/YasirAwan4831
 
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/YasirAwan4831">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+</p>
+
 Practice challenges are taken from:
 
 * HackerRank
 * Personal coding practice
 * Problem solving exercises
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAwan4831&theme=tokyo-night" />
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -123,5 +143,3 @@ This repository will keep growing with more **coding challenges, solutions, and 
 </p>
 
 <!-- WAVE DIVIDER --><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
